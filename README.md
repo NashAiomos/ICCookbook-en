@@ -1,6 +1,6 @@
 # ICCookbook
 
-<img src="assets/README/221864533-82c2e5f6-32ec-41a8-a5d8-2d5490d744f5.png" align="right" alt="img" style="zoom:37%;" />
+<img src="assets/README/221864533-82c2e5f6-32ec-41a8-a5d8-2d5490d744f5.png" align="right" alt="DFINITY logo" width="270" />
 
 If you have only heard of IC but have been busy with Ethereum and Polkadot projects without delving into IC, then you've come to the right place to learn more about it [here](https://chat.openai.com/1.了解IC/1.了解IC.md)!
 
