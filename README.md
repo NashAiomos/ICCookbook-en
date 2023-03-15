@@ -1,6 +1,10 @@
-If you have only heard of IC but have been busy with Ethereum and Polkadot projects without delving into IC, then you've come to the right place to learn more about it [here]()!
+# ICCookbook
 
-If you are still unfamiliar with Web3, blockchain, Bitcoin, and IC, don't worry, start [here](). Let me guide you through the history of encryption and quickly get you started in Web3 development!
+<img src="assets/README/221864533-82c2e5f6-32ec-41a8-a5d8-2d5490d744f5.png" align="right" alt="img" style="zoom:37%;" />
+
+If you have only heard of IC but have been busy with Ethereum and Polkadot projects without delving into IC, then you've come to the right place to learn more about it [here](https://chat.openai.com/1.了解IC/1.了解IC.md)!
+
+If you are still unfamiliar with Web3, blockchain, Bitcoin, and IC, don't worry, start [here](https://chat.openai.com/0.去中心化之旅/造梦家的冒险之旅.md). Let me guide you through the history of encryption and quickly get you started in Web3 development!
 
 **This project is currently under rapid development...** 
 
@@ -27,8 +31,6 @@ It's not really a cookbook for food! I hope to be a chef of knowledge, carefully
 <br>
 
 Join the developer discussion group for this book, make corrections, suggest changes, and contribute to this open-source book together!
-
-<br>
 
 WeChat: NeutronStarPRO
 
