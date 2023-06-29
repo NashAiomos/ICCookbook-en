@@ -1,4 +1,4 @@
-# ICCookbook
+# Code: ICCookbook
 
 <img src="assets/README/221864533-82c2e5f6-32ec-41a8-a5d8-2d5490d744f5.png" align="right" alt="DFINITY logo" width="270" />
 
@@ -6,7 +6,7 @@ If you have only heard of IC but have been busy with Ethereum and Polkadot proje
 
 If you are still unfamiliar with Web3, blockchain, Bitcoin, and IC, don't worry, start [here](https://chat.openai.com/0.去中心化之旅/造梦家的冒险之旅.md). Let me guide you through the history of encryption and quickly get you started in Web3 development!
 
-**This project is currently under rapid development...** 
+**~~This project is currently under rapid development...~~** Now project move on [NeutronStarDAO](https://github.com/NeutronStarDAO).
 
 <br>
 
